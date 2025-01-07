@@ -1,0 +1,6 @@
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\x64\Debug\FrostBehind.dll
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\x64\Debug\FrostBehind.pdb
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.csproj.AssemblyReference.cache
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.csproj.CoreCompileInputs.cache
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.dll
+C:\Users\Nasir Shahbaz\Desktop\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.pdb
