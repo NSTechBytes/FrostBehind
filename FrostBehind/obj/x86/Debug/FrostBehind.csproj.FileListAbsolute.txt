@@ -1,0 +1,6 @@
+D:\GitHub\FrostBehind\FrostBehind\x32\Debug\FrostBehind.dll
+D:\GitHub\FrostBehind\FrostBehind\x32\Debug\FrostBehind.pdb
+D:\GitHub\FrostBehind\FrostBehind\obj\x86\Debug\FrostBehind.csproj.AssemblyReference.cache
+D:\GitHub\FrostBehind\FrostBehind\obj\x86\Debug\FrostBehind.csproj.CoreCompileInputs.cache
+D:\GitHub\FrostBehind\FrostBehind\obj\x86\Debug\FrostBehind.dll
+D:\GitHub\FrostBehind\FrostBehind\obj\x86\Debug\FrostBehind.pdb

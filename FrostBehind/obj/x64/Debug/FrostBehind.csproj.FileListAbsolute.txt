@@ -1,0 +1,12 @@
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\x64\Debug\FrostBehind.dll
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\x64\Debug\FrostBehind.pdb
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\obj\x64\Debug\FrostBehind.csproj.AssemblyReference.cache
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\obj\x64\Debug\FrostBehind.csproj.CoreCompileInputs.cache
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\obj\x64\Debug\FrostBehind.dll
+C:\Users\Nasir Shahbaz\Desktop\ModernSearchBar\FrostBehind\obj\x64\Debug\FrostBehind.pdb
+D:\GitHub\FrostBehind\FrostBehind\x64\Debug\FrostBehind.dll
+D:\GitHub\FrostBehind\FrostBehind\x64\Debug\FrostBehind.pdb
+D:\GitHub\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.csproj.AssemblyReference.cache
+D:\GitHub\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.csproj.CoreCompileInputs.cache
+D:\GitHub\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.dll
+D:\GitHub\FrostBehind\FrostBehind\obj\x64\Debug\FrostBehind.pdb

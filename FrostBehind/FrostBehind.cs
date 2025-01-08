@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using Rainmeter;
 
-public enum AccentState
+public enum AccentState 
 {
     DISABLED = 0,
     BLURBEHIND = 3,
